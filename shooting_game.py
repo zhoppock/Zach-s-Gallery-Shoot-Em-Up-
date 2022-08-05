@@ -1,5 +1,4 @@
-from itertools import count
-import pygame, sys, random, time # import the pygame, sys, random, and time libraries all at once
+import pygame, sys, random # import the pygame, sys, and random libraries all at once
 pygame.init() # General setup with initiating pygame and its clock feature
 clock = pygame.time.Clock()
 
