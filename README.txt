@@ -12,7 +12,7 @@ Destroy at least 20 targets to win the game!  But be careful, you have 15 second
 Tutorial on making this program provided by "ClearCode" on Youtube.
 https://www.youtube.com/c/ClearCode
 
-Visual assets and Tutorial on making this program provided by "Kenny.nl".
+Visual assets provided by "Kenny.nl".
 https://opengameart.org/content/shooting-gallery
 
 SFX assets found on videvo.
